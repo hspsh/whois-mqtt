@@ -1,0 +1,1 @@
+SECRETS_FILE=secrets.conf python mqtt_poc.py
